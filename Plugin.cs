@@ -72,6 +72,9 @@ namespace SlopMod
             ThrowWindowIndicator.EnsureExists();
 
             Log.LogInfo(PluginName + " v" + PluginVersion + " loaded.");
+
+            // A little something for anyone reading the BepInEx console.
+            Log.LogMessage("ENJOY YOUR SLOP");
         }
 
         private void OnDestroy()
