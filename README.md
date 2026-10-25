@@ -131,7 +131,7 @@ The short technical version, for anyone who wants to poke at the code:
 
 ## Credits
 
-Made by **419FFF**. Built with **Cline** running **DeepSeek 4.1 Flash**.
+Managed by **419FFF**. Built with **Cline** running **DeepSeek 4.1 Flash**.
 
 This is an unofficial fan tool and is **not affiliated with the game's developers or publishers**. Use at
 your own risk.
